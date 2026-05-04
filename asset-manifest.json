@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Foodada/static/css/main.a01b2703.css",
+    "main.js": "/Foodada/static/js/main.4e546ada.js",
+    "static/media/home-banner-image.png": "/Foodada/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/Foodada/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/Foodada/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Foodada/static/media/Logo.de6c4efe2bddd7c63fd2d0542713099f.svg",
+    "index.html": "/Foodada/index.html",
+    "main.a01b2703.css.map": "/Foodada/static/css/main.a01b2703.css.map",
+    "main.4e546ada.js.map": "/Foodada/static/js/main.4e546ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01b2703.css",
+    "static/js/main.4e546ada.js"
+  ]
+}
